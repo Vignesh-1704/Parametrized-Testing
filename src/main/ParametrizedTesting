@@ -1,0 +1,9 @@
+Dependencies needed for Parametrized Testing
+
+                        VERSION - 5.7.0
+
+1. jupiter-api : ( provides all the annotations to write junit test cases )
+2. jupiter engine : ( priovides the Runtime Facility to run the junit Test cases )
+3. jupiter params : ( need this dependency to perform parametrized testing )
+
+
